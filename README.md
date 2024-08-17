@@ -10,6 +10,8 @@ The 1-D Linear Convection equation
 ![image](https://github.com/user-attachments/assets/d5be56b1-b99b-4b8d-8e1e-1f151c914dc3)
 
 
+Where n and n+1 are two consecutive steps in time, while i−1 and i are two neighbouring points of the discretized x coordinate. 
+
 
 ![image](https://github.com/user-attachments/assets/9f4f51aa-8e2f-4c8a-9937-4b0637cc573e)
 
